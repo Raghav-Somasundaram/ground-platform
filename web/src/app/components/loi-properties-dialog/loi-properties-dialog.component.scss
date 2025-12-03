@@ -29,10 +29,12 @@
   .mat-mdc-dialog-content {
     padding-left: 16px;
     padding-right: 16px;
+      overflow: hidden;
 
     .mat-mdc-list {
       padding-left: 16px;
       padding-right: 16px;
+        overflow: auto;
 
       .mat-mdc-list-item {
         padding-left: 0;
